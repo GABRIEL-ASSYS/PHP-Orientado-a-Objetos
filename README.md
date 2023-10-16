@@ -1,4 +1,4 @@
-# PHP-Orientado a Objetos
+# PHP Orientado a Objetos
 
   Este é um projeto criado durante um curso na plataforma Alura com o objetivo de reforçar o conhecimento em orientação a objetos e entender melhor como se aplica na linguagem PHP.
 
